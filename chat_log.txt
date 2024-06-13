@@ -1,0 +1,4 @@
+Client: привет
+Server: Processed: привет
+Client: как дела
+Server: Processed: как дела
